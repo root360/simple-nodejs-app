@@ -1,0 +1,17 @@
+{
+  "name": "simple-nodejs-app",
+  "version": "1.0.0",
+  "description": "Sample app for nodejs on root360",
+  "main": "sample-express.js",
+  "scripts": {
+    "start": "node sample-express.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "root360 GmbH",
+  "license": "Unlicense",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
